@@ -1,0 +1,8 @@
+C:\Users\Yassine\Desktop\Test3\FlyBy\obj\Debug\netstandard2.0\FlyBy.csprojAssemblyReference.cache
+C:\Users\Yassine\Desktop\Test3\FlyBy\obj\Debug\netstandard2.0\FlyBy.AssemblyInfoInputs.cache
+C:\Users\Yassine\Desktop\Test3\FlyBy\obj\Debug\netstandard2.0\FlyBy.AssemblyInfo.cs
+C:\Users\Yassine\Desktop\Test3\FlyBy\bin\Debug\netstandard2.0\FlyBy.deps.json
+C:\Users\Yassine\Desktop\Test3\FlyBy\bin\Debug\netstandard2.0\FlyBy.dll
+C:\Users\Yassine\Desktop\Test3\FlyBy\bin\Debug\netstandard2.0\FlyBy.pdb
+C:\Users\Yassine\Desktop\Test3\FlyBy\obj\Debug\netstandard2.0\FlyBy.dll
+C:\Users\Yassine\Desktop\Test3\FlyBy\obj\Debug\netstandard2.0\FlyBy.pdb
