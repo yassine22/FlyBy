@@ -1,0 +1,3 @@
+C:\Users\Yassine\Desktop\C#\FlyBy\Example\obj\Debug\netcoreapp2.0\Example.csprojAssemblyReference.cache
+C:\Users\Yassine\Desktop\C#\FlyBy\Example\obj\Debug\netcoreapp2.0\Example.AssemblyInfoInputs.cache
+C:\Users\Yassine\Desktop\C#\FlyBy\Example\obj\Debug\netcoreapp2.0\Example.AssemblyInfo.cs

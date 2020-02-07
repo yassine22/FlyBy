@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Example/1.0.0": {
+        "dependencies": {
+          "FlyBy": "1.0.0"
+        },
+        "runtime": {
+          "Example.dll": {}
+        }
+      },
+      "Warble.Net/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Warble.NetStandard.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win10-x64/native/warble.dll": {
+            "rid": "win10-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win10-x86/native/warble.dll": {
+            "rid": "win10-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "FlyBy/1.0.0": {
+        "dependencies": {
+          "Warble.Net": "1.1.1"
+        },
+        "runtime": {
+          "FlyBy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Warble.Net/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AzbWdBTdwe3BBWV9FK+iu8Jn8gc18SPwdn1BPuncpD21IT+UGOySr/+qf6Fuqd+nhKZDANgi2fZPX+oY2jjMbw==",
+      "path": "warble.net/1.1.1",
+      "hashPath": "warble.net.1.1.1.nupkg.sha512"
+    },
+    "FlyBy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
